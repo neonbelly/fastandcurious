@@ -2,7 +2,8 @@
 304 class car classification app
 
 View my presentation here:
-[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png)](https://youtu.be/Dy2bQKBpesU "Fast and Curious")
+
+[![Youtube](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.iconarchive.com%2Ftag%2Fyoutube&psig=AOvVaw2W_rnYn3bEjMJMjlYiL06g&ust=1587112217411000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiUm_LD7OgCFQAAAAAdAAAAABAD)](https://youtu.be/Dy2bQKBpesU "Fast and Curious")
 
 
 ![](app_demo.gif)
