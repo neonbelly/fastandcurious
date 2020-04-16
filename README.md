@@ -1,5 +1,5 @@
 # Fast And Curious
-304 class car classification app
+304 class car classification app using neural networks, Keras, CoreML, and Swift.
 
 ## View my presentation here:
 
