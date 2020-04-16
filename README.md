@@ -10,7 +10,7 @@
 ![](app_demo.gif)
 
 ## Technologies Used:
-* https://www.kaggle.com/austinreese/craigslist-carstrucks-data (images scraped using urls from this dataset using urllib)
+* https://www.kaggle.com/austinreese/craigslist-carstrucks-data (images scraped using urls from this dataset via urllib)
 * Google Compute Engine (Processing)
 * Keras, ResNet50, CoreML (Neural Network)
 * Swift (iOS app)
