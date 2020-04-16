@@ -1,6 +1,10 @@
 # Fast And Curious
 304 class car classification app
 
+View my presentation here:
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png)](https://youtu.be/Dy2bQKBpesU "Fast and Curious")
+
+
 ![](app_demo.gif)
 
 ## Technologies Used:
