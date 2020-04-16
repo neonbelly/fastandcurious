@@ -2,7 +2,8 @@
 304 class car model classification app using neural networks, Keras, CoreML, and Swift.
 
 I first scraped images of cars using urls from a Kaggle dataset, which also serves to map the class (car model) to each image.
-Using a pretrained ResNet50 neural network, we can add a few additional layers and train on car model data.
+Using a pretrained ResNet50 neural network, we can add a few additional layers and train on car model data with keras.
+In order to improve computing power all operations were conducted on a Google Compute Engine instance with a GPU.
 Once the model is trained, it is as simple as converting the model to CoreML using coremltools and then designing an iOS app around the model.
 
 
