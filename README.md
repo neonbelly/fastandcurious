@@ -3,7 +3,7 @@
 
 View my presentation here:
 
-[![Youtube](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.iconarchive.com%2Ftag%2Fyoutube&psig=AOvVaw2W_rnYn3bEjMJMjlYiL06g&ust=1587112217411000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiUm_LD7OgCFQAAAAAdAAAAABAD)](https://youtu.be/Dy2bQKBpesU "Fast and Curious")
+[![Youtube](https://i.pinimg.com/originals/47/bb/4c/47bb4ca2b686e732a0817e76c1f6acf1.png)](https://youtu.be/Dy2bQKBpesU "Fast and Curious")
 
 
 ![](app_demo.gif)
