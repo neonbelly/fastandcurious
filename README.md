@@ -16,5 +16,5 @@ Once the model is trained, it is as simple as converting the model to CoreML usi
 * https://www.kaggle.com/austinreese/craigslist-carstrucks-data (images scraped using urls from this dataset via urllib)
 * Google Compute Engine (Processing)
 * Keras, ResNet50, CoreML (Neural Network)
-* ![coremltools](https://apple.github.io/coremltools/generated/coremltools.converters.keras.convert.html "coremltools")
+* ![coremltools](https://apple.github.io/coremltools/generated/coremltools.converters.keras.convert.html)
 * Swift (iOS app)
