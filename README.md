@@ -1,5 +1,8 @@
 # Fast And Curious
 304 class car classification app using neural networks, Keras, CoreML, and Swift.
+Using a pretrained ResNet50 neural network, we can add a few additional layers and train on car model data.
+Once the model is trained, it is as simple as converting the model to CoreML using coremltools and then designing an iOS app around the model.
+
 
 ## View my presentation here:
 
@@ -13,4 +16,5 @@
 * https://www.kaggle.com/austinreese/craigslist-carstrucks-data (images scraped using urls from this dataset via urllib)
 * Google Compute Engine (Processing)
 * Keras, ResNet50, CoreML (Neural Network)
+* ![coremltools](https://apple.github.io/coremltools/generated/coremltools.converters.keras.convert.html "coremltools")
 * Swift (iOS app)
